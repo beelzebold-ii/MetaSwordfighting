@@ -1,1 +1,2 @@
 -- hello world
+require("assets")
